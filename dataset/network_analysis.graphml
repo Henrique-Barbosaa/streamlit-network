@@ -1,0 +1,2047 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="contraction" attr.type="long"/>
+<key id="d0" for="node" attr.name="contraction" attr.type="long"/>
+<graph edgedefault="directed"><node id="Paul Seymour (Mathematician)">
+  <data key="d0">0</data>
+</node>
+<node id="Strong Orientation">
+  <data key="d0">0</data>
+</node>
+<node id="Complete Bipartite Graph">
+  <data key="d0">0</data>
+</node>
+<node id="Connected Component (Graph Theory)">
+  <data key="d0">0</data>
+</node>
+<node id="Formal Language">
+  <data key="d0">0</data>
+</node>
+<node id="Cycle (Graph Theory)">
+  <data key="d0">0</data>
+</node>
+<node id="Robert Tarjan">
+  <data key="d0">0</data>
+</node>
+<node id="Breadth-First Search">
+  <data key="d0">0</data>
+</node>
+<node id="Computational Complexity Theory">
+  <data key="d0">0</data>
+</node>
+<node id="Bijective Proof">
+  <data key="d0">0</data>
+</node>
+<node id="Degree (Graph Theory)">
+  <data key="d0">0</data>
+</node>
+<node id="Probability">
+  <data key="d0">0</data>
+</node>
+<node id="Eric W. Weisstein">
+  <data key="d0">0</data>
+</node>
+<node id="S2Cid (Identifier)">
+  <data key="d0">0</data>
+</node>
+<node id="Dna Sequence">
+  <data key="d0">0</data>
+</node>
+<node id="Combinatorics">
+  <data key="d0">0</data>
+</node>
+<node id="Connected Graph">
+  <data key="d0">0</data>
+</node>
+<node id="Cayley Graph">
+  <data key="d0">0</data>
+</node>
+<node id="Automata Theory">
+  <data key="d0">0</data>
+</node>
+<node id="Asymptotic Analysis">
+  <data key="d0">0</data>
+</node>
+<node id="Citeseerx (Identifier)">
+  <data key="d0">0</data>
+</node>
+<node id="Harvard University">
+  <data key="d0">0</data>
+</node>
+<node id="Arxiv (Identifier)">
+  <data key="d0">0</data>
+</node>
+<node id="Edge (Graph Theory)">
+  <data key="d0">0</data>
+</node>
+<node id="Béla Bollobás">
+  <data key="d0">0</data>
+</node>
+<node id="On-Line Encyclopedia Of Integer Sequences">
+  <data key="d0">0</data>
+</node>
+<node id="Combinatorica">
+  <data key="d0">0</data>
+</node>
+<node id="International Congress Of Mathematicians">
+  <data key="d0">0</data>
+</node>
+<node id="Mathematician">
+  <data key="d0">0</data>
+</node>
+<node id="Girth (Graph Theory)">
+  <data key="d0">0</data>
+</node>
+<node id="If And Only If">
+  <data key="d0">0</data>
+</node>
+<node id="Cycle Graph">
+  <data key="d0">0</data>
+</node>
+<node id="Jstor (Identifier)">
+  <data key="d0">0</data>
+</node>
+<node id="Mathematical Proof">
+  <data key="d0">0</data>
+</node>
+<node id="Mathworld">
+  <data key="d0">0</data>
+</node>
+<node id="Mathematics Genealogy Project">
+  <data key="d0">0</data>
+</node>
+<node id="Directed Graph">
+  <data key="d0">0</data>
+</node>
+<node id="Euclidean Plane">
+  <data key="d0">0</data>
+</node>
+<node id="Anton Kotzig">
+  <data key="d0">0</data>
+</node>
+<node id="World Wide Web">
+  <data key="d0">0</data>
+</node>
+<node id="Computability Theory">
+  <data key="d0">0</data>
+</node>
+<node id="Random Graph">
+  <data key="d0">0</data>
+</node>
+<node id="Strongly Connected Component">
+  <data key="d0">0</data>
+</node>
+<node id="Spectral Graph Theory">
+  <data key="d0">0</data>
+</node>
+<node id="Journal Of The Acm">
+  <data key="d0">0</data>
+</node>
+<node id="American Mathematical Monthly">
+  <data key="d0">0</data>
+</node>
+<node id="Graph Theory">
+  <data key="d0">0</data>
+</node>
+<node id="American Mathematical Society">
+  <data key="d0">0</data>
+</node>
+<node id="Depth-First Search">
+  <data key="d0">0</data>
+</node>
+<node id="Vertex-Transitive Graph">
+  <data key="d0">0</data>
+</node>
+<node id="Statistic">
+  <data key="d0">0</data>
+</node>
+<node id="Operating System">
+  <data key="d0">0</data>
+</node>
+<node id="Pmid (Identifier)">
+  <data key="d0">0</data>
+</node>
+<node id="Physics">
+  <data key="d0">0</data>
+</node>
+<node id="Seven Bridges Of Königsberg">
+  <data key="d0">0</data>
+</node>
+<node id="Connectivity (Graph Theory)">
+  <data key="d0">0</data>
+</node>
+<node id="Encyclopedia Of Mathematics">
+  <data key="d0">0</data>
+</node>
+<node id="Journal Of Combinatorial Theory">
+  <data key="d0">0</data>
+</node>
+<node id="Cycle Double Cover Conjecture">
+  <data key="d0">0</data>
+</node>
+<node id="Computer Science">
+  <data key="d0">0</data>
+</node>
+<node id="Mr (Identifier)">
+  <data key="d0">0</data>
+</node>
+<node id="Linear Time">
+  <data key="d0">0</data>
+</node>
+<node id="Path (Graph Theory)">
+  <data key="d0">0</data>
+</node>
+<node id="Tree (Graph Theory)">
+  <data key="d0">0</data>
+</node>
+<node id="Arborescence (Graph Theory)">
+  <data key="d0">0</data>
+</node>
+<node id="Pmc (Identifier)">
+  <data key="d0">0</data>
+</node>
+<node id="Bibcode (Identifier)">
+  <data key="d0">0</data>
+</node>
+<node id="Cedric Smith (Statistician)">
+  <data key="d0">0</data>
+</node>
+<node id="Graph (Discrete Mathematics)">
+  <data key="d0">0</data>
+</node>
+<node id="Undirected Graph">
+  <data key="d0">0</data>
+</node>
+<node id="Carl Hierholzer">
+  <data key="d0">0</data>
+</node>
+<node id="László Lovász">
+  <data key="d0">0</data>
+</node>
+<node id="Mathematical Statistics">
+  <data key="d0">0</data>
+</node>
+<node id="Hdl (Identifier)">
+  <data key="d0">0</data>
+</node>
+<node id="K-Vertex-Connected Graph">
+  <data key="d0">0</data>
+</node>
+<node id="Polynomial Time">
+  <data key="d0">0</data>
+</node>
+<node id="Cornell University">
+  <data key="d0">0</data>
+</node>
+<node id="D. R. Fulkerson">
+  <data key="d0">0</data>
+</node>
+<node id="Best Theorem">
+  <data key="d0">0</data>
+</node>
+<node id="Cambridge University Press">
+  <data key="d0">0</data>
+</node>
+<node id="Chromatic Number">
+  <data key="d0">0</data>
+</node>
+<node id="Brendan Mckay (Mathematician)">
+  <data key="d0">0</data>
+</node>
+<node id="Leonhard Euler">
+  <data key="d0">0</data>
+</node>
+<node id="W. T. Tutte">
+  <data key="d0">0</data>
+</node>
+<node id="Bridgeless Graph">
+  <data key="d0">0</data>
+</node>
+<node id="Cubic Graph">
+  <data key="d0">0</data>
+</node>
+<node id="Isbn (Identifier)">
+  <data key="d0">0</data>
+</node>
+<node id="Directed Acyclic Graph">
+  <data key="d0">0</data>
+</node>
+<node id="Countable Set">
+  <data key="d0">0</data>
+</node>
+<node id="Paul Erdős">
+  <data key="d0">0</data>
+</node>
+<node id="Doi (Identifier)">
+  <data key="d0">0</data>
+</node>
+<node id="Glossary Of Graph Theory">
+  <data key="d0">0</data>
+</node>
+<node id="The American Mathematical Monthly">
+  <data key="d0">0</data>
+</node>
+<node id="Forest (Graph Theory)">
+  <data key="d0">0</data>
+</node>
+<node id="Andrew Vázsonyi">
+  <data key="d0">0</data>
+</node>
+<node id="Oclc (Identifier)">
+  <data key="d0">0</data>
+</node>
+<node id="Database">
+  <data key="d0">0</data>
+</node>
+<node id="Analysis Of Algorithms">
+  <data key="d0">0</data>
+</node>
+<node id="Operations Research">
+  <data key="d0">0</data>
+</node>
+<node id="Equivalence Relation">
+  <data key="d0">0</data>
+</node>
+<node id="Eulerian Path">
+  <data key="d0">0</data>
+</node>
+<node id="Perfect Matching">
+  <data key="d0">0</data>
+</node>
+<node id="Mathematical Analysis">
+  <data key="d0">0</data>
+</node>
+<node id="Evolutionary Biology">
+  <data key="d0">0</data>
+</node>
+<node id="Cut (Graph Theory)">
+  <data key="d0">0</data>
+</node>
+<node id="Nicolaas Govert De Bruijn">
+  <data key="d0">0</data>
+</node>
+<node id="Spanning Forest">
+  <data key="d0">0</data>
+</node>
+<node id="Alexander Schrijver">
+  <data key="d0">0</data>
+</node>
+<node id="Information Theory">
+  <data key="d0">0</data>
+</node>
+<node id="Issn (Identifier)">
+  <data key="d0">0</data>
+</node>
+<node id="Hamiltonian Cycle">
+  <data key="d0">0</data>
+</node>
+<node id="Vertex (Graph Theory)">
+  <data key="d0">0</data>
+</node>
+<node id="Biconnected Component">
+  <data key="d0">0</data>
+</node>
+<node id="Discrete Mathematics">
+  <data key="d0">0</data>
+</node>
+<node id="Planar Graph">
+  <data key="d0">0</data>
+</node>
+<node id="Symmetric Group">
+  <data key="d0">0</data>
+</node>
+<node id="Bridge (Graph Theory)">
+  <data key="d0">0</data>
+</node>
+<node id="Numerical Analysis">
+  <data key="d0">0</data>
+</node>
+<node id="European Mathematical Society">
+  <data key="d0">0</data>
+</node>
+<node id="Complete Graph">
+  <data key="d0">0</data>
+</node>
+<node id="Bioinformatics">
+  <data key="d0">0</data>
+</node>
+<node id="Wayback Machine">
+  <data key="d0">0</data>
+</node>
+<node id="Symmetric Graph">
+  <data key="d0">0</data>
+</node>
+<node id="Word Processor">
+  <data key="d0">0</data>
+</node>
+<edge source="Complete Bipartite Graph" target="American Mathematical Society">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="Arxiv (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="Breadth-First Search">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="Béla Bollobás">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="Chromatic Number">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="Citeseerx (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="Connected Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="Cut (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="Cycle (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="Cycle Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="Degree (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="Depth-First Search">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="Directed Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="Doi (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="Edge (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="Encyclopedia Of Mathematics">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="Eric W. Weisstein">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="Euclidean Plane">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="European Mathematical Society">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="Girth (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="Glossary Of Graph Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="Graph (Discrete Mathematics)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="Graph Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="Isbn (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="If And Only If">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="Linear Time">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="László Lovász">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="Mr (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="Mathworld">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="Paul Seymour (Mathematician)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="Perfect Matching">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="Planar Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="Polynomial Time">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="S2Cid (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="Spanning Forest">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="Spectral Graph Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="Tree (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Bipartite Graph" target="Vertex (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connected Component (Graph Theory)" target="Arxiv (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connected Component (Graph Theory)" target="Bibcode (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connected Component (Graph Theory)" target="Biconnected Component">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connected Component (Graph Theory)" target="Breadth-First Search">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connected Component (Graph Theory)" target="Béla Bollobás">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connected Component (Graph Theory)" target="Citeseerx (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connected Component (Graph Theory)" target="Computational Complexity Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connected Component (Graph Theory)" target="Connected Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connected Component (Graph Theory)" target="Connectivity (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connected Component (Graph Theory)" target="Depth-First Search">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connected Component (Graph Theory)" target="Directed Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connected Component (Graph Theory)" target="Doi (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connected Component (Graph Theory)" target="Equivalence Relation">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connected Component (Graph Theory)" target="Forest (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connected Component (Graph Theory)" target="Glossary Of Graph Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connected Component (Graph Theory)" target="Graph Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connected Component (Graph Theory)" target="Isbn (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connected Component (Graph Theory)" target="Jstor (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connected Component (Graph Theory)" target="Journal Of Combinatorial Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connected Component (Graph Theory)" target="Journal Of The Acm">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connected Component (Graph Theory)" target="Linear Time">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connected Component (Graph Theory)" target="Mr (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connected Component (Graph Theory)" target="Path (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connected Component (Graph Theory)" target="Perfect Matching">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connected Component (Graph Theory)" target="Random Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connected Component (Graph Theory)" target="Robert Tarjan">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connected Component (Graph Theory)" target="S2Cid (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connected Component (Graph Theory)" target="Spanning Forest">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connected Component (Graph Theory)" target="Strongly Connected Component">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connected Component (Graph Theory)" target="The American Mathematical Monthly">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connected Component (Graph Theory)" target="Tree (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connected Component (Graph Theory)" target="Undirected Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connected Component (Graph Theory)" target="W. T. Tutte">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connected Component (Graph Theory)" target="Wayback Machine">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cycle (Graph Theory)" target="American Mathematical Monthly">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cycle (Graph Theory)" target="Breadth-First Search">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cycle (Graph Theory)" target="Bridgeless Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cycle (Graph Theory)" target="Connected Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cycle (Graph Theory)" target="Cycle Double Cover Conjecture">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cycle (Graph Theory)" target="Cycle Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cycle (Graph Theory)" target="Depth-First Search">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cycle (Graph Theory)" target="Directed Acyclic Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cycle (Graph Theory)" target="Directed Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cycle (Graph Theory)" target="Doi (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cycle (Graph Theory)" target="Eulerian Path">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cycle (Graph Theory)" target="Forest (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cycle (Graph Theory)" target="Girth (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cycle (Graph Theory)" target="Graph (Discrete Mathematics)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cycle (Graph Theory)" target="Graph Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cycle (Graph Theory)" target="Hamiltonian Cycle">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cycle (Graph Theory)" target="Isbn (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cycle (Graph Theory)" target="Jstor (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cycle (Graph Theory)" target="Leonhard Euler">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cycle (Graph Theory)" target="Path (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cycle (Graph Theory)" target="Polynomial Time">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cycle (Graph Theory)" target="S2Cid (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cycle (Graph Theory)" target="Seven Bridges Of Königsberg">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cycle (Graph Theory)" target="Strongly Connected Component">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cycle (Graph Theory)" target="Tree (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cycle (Graph Theory)" target="Vertex (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bijective Proof" target="Combinatorics">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bijective Proof" target="Discrete Mathematics">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bijective Proof" target="Graph Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bijective Proof" target="Isbn (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bijective Proof" target="Mathworld">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bijective Proof" target="Mathematical Proof">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bijective Proof" target="Symmetric Group">
+  <data key="d1">0</data>
+</edge>
+<edge source="Dna Sequence" target="Bibcode (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Dna Sequence" target="Bioinformatics">
+  <data key="d1">0</data>
+</edge>
+<edge source="Dna Sequence" target="Citeseerx (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Dna Sequence" target="Cornell University">
+  <data key="d1">0</data>
+</edge>
+<edge source="Dna Sequence" target="Doi (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Dna Sequence" target="Evolutionary Biology">
+  <data key="d1">0</data>
+</edge>
+<edge source="Dna Sequence" target="Harvard University">
+  <data key="d1">0</data>
+</edge>
+<edge source="Dna Sequence" target="Hdl (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Dna Sequence" target="Isbn (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Dna Sequence" target="Issn (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cayley Graph" target="Arxiv (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cayley Graph" target="Connectivity (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cayley Graph" target="Cycle (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cayley Graph" target="Cycle Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cayley Graph" target="Degree (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cayley Graph" target="Directed Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cayley Graph" target="Doi (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cayley Graph" target="Eric W. Weisstein">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cayley Graph" target="Graph (Discrete Mathematics)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cayley Graph" target="Isbn (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cayley Graph" target="Jstor (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cayley Graph" target="László Lovász">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cayley Graph" target="Mr (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cayley Graph" target="Mathworld">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cayley Graph" target="S2Cid (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cayley Graph" target="Spectral Graph Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cayley Graph" target="Symmetric Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cayley Graph" target="Tree (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cayley Graph" target="Vertex-Transitive Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Asymptotic Analysis" target="American Mathematical Society">
+  <data key="d1">0</data>
+</edge>
+<edge source="Asymptotic Analysis" target="Analysis Of Algorithms">
+  <data key="d1">0</data>
+</edge>
+<edge source="Asymptotic Analysis" target="Cambridge University Press">
+  <data key="d1">0</data>
+</edge>
+<edge source="Asymptotic Analysis" target="Computer Science">
+  <data key="d1">0</data>
+</edge>
+<edge source="Asymptotic Analysis" target="Encyclopedia Of Mathematics">
+  <data key="d1">0</data>
+</edge>
+<edge source="Asymptotic Analysis" target="Equivalence Relation">
+  <data key="d1">0</data>
+</edge>
+<edge source="Asymptotic Analysis" target="European Mathematical Society">
+  <data key="d1">0</data>
+</edge>
+<edge source="Asymptotic Analysis" target="Isbn (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Asymptotic Analysis" target="Mathematical Analysis">
+  <data key="d1">0</data>
+</edge>
+<edge source="Asymptotic Analysis" target="Mathematical Statistics">
+  <data key="d1">0</data>
+</edge>
+<edge source="Asymptotic Analysis" target="Nicolaas Govert De Bruijn">
+  <data key="d1">0</data>
+</edge>
+<edge source="Asymptotic Analysis" target="Numerical Analysis">
+  <data key="d1">0</data>
+</edge>
+<edge source="Asymptotic Analysis" target="Statistic">
+  <data key="d1">0</data>
+</edge>
+<edge source="Citeseerx (Identifier)" target="Database">
+  <data key="d1">0</data>
+</edge>
+<edge source="Citeseerx (Identifier)" target="Doi (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Citeseerx (Identifier)" target="Isbn (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Citeseerx (Identifier)" target="Issn (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Citeseerx (Identifier)" target="Jstor (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Citeseerx (Identifier)" target="Oclc (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Citeseerx (Identifier)" target="Operating System">
+  <data key="d1">0</data>
+</edge>
+<edge source="Citeseerx (Identifier)" target="Probability">
+  <data key="d1">0</data>
+</edge>
+<edge source="Arxiv (Identifier)" target="Bibcode (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Arxiv (Identifier)" target="Computer Science">
+  <data key="d1">0</data>
+</edge>
+<edge source="Arxiv (Identifier)" target="Cornell University">
+  <data key="d1">0</data>
+</edge>
+<edge source="Arxiv (Identifier)" target="Doi (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Arxiv (Identifier)" target="Issn (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Arxiv (Identifier)" target="Mathematician">
+  <data key="d1">0</data>
+</edge>
+<edge source="Arxiv (Identifier)" target="Oclc (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Arxiv (Identifier)" target="Pmc (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Arxiv (Identifier)" target="Pmid (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Arxiv (Identifier)" target="Physics">
+  <data key="d1">0</data>
+</edge>
+<edge source="Arxiv (Identifier)" target="S2Cid (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Arxiv (Identifier)" target="Word Processor">
+  <data key="d1">0</data>
+</edge>
+<edge source="Arxiv (Identifier)" target="World Wide Web">
+  <data key="d1">0</data>
+</edge>
+<edge source="Arxiv (Identifier)" target="Statistic">
+  <data key="d1">0</data>
+</edge>
+<edge source="Béla Bollobás" target="American Mathematical Society">
+  <data key="d1">0</data>
+</edge>
+<edge source="Béla Bollobás" target="Chromatic Number">
+  <data key="d1">0</data>
+</edge>
+<edge source="Béla Bollobás" target="Combinatorics">
+  <data key="d1">0</data>
+</edge>
+<edge source="Béla Bollobás" target="Doi (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Béla Bollobás" target="Graph Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Béla Bollobás" target="Isbn (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Béla Bollobás" target="International Congress Of Mathematicians">
+  <data key="d1">0</data>
+</edge>
+<edge source="Béla Bollobás" target="Mathematics Genealogy Project">
+  <data key="d1">0</data>
+</edge>
+<edge source="Béla Bollobás" target="Paul Erdős">
+  <data key="d1">0</data>
+</edge>
+<edge source="Béla Bollobás" target="Random Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Analysis Of Algorithms">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Asymptotic Analysis">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Automata Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Bijective Proof">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Cambridge University Press">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Cayley Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Complete Bipartite Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Computability Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Computational Complexity Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Computer Science">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Countable Set">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Database">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Discrete Mathematics">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Doi (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Encyclopedia Of Mathematics">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Euclidean Plane">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="European Mathematical Society">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Evolutionary Biology">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Formal Language">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Graph (Discrete Mathematics)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Graph Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Hamiltonian Cycle">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Isbn (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Issn (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Information Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Jstor (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Leonhard Euler">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Mathworld">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Mathematical Analysis">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Mathematical Statistics">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Mathematician">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Numerical Analysis">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Operating System">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Operations Research">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Paul Erdős">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Physics">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Probability">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Random Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="S2Cid (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Symmetric Group">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Vertex (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Wayback Machine">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Word Processor">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="World Wide Web">
+  <data key="d1">0</data>
+</edge>
+<edge source="Combinatorica" target="Statistic">
+  <data key="d1">0</data>
+</edge>
+<edge source="Anton Kotzig" target="Combinatorics">
+  <data key="d1">0</data>
+</edge>
+<edge source="Anton Kotzig" target="Complete Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Anton Kotzig" target="Cubic Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Anton Kotzig" target="Degree (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Anton Kotzig" target="Doi (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Anton Kotzig" target="Graph Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Anton Kotzig" target="Mr (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Anton Kotzig" target="Mathematical Statistics">
+  <data key="d1">0</data>
+</edge>
+<edge source="Anton Kotzig" target="Mathematician">
+  <data key="d1">0</data>
+</edge>
+<edge source="Anton Kotzig" target="Mathematics Genealogy Project">
+  <data key="d1">0</data>
+</edge>
+<edge source="Anton Kotzig" target="S2Cid (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Anton Kotzig" target="Tree (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Anton Kotzig" target="Statistic">
+  <data key="d1">0</data>
+</edge>
+<edge source="American Mathematical Monthly" target="Issn (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="American Mathematical Monthly" target="Jstor (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="American Mathematical Monthly" target="Oclc (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connectivity (Graph Theory)" target="Breadth-First Search">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connectivity (Graph Theory)" target="Bridge (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connectivity (Graph Theory)" target="Cambridge University Press">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connectivity (Graph Theory)" target="Cayley Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connectivity (Graph Theory)" target="Citeseerx (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connectivity (Graph Theory)" target="Complete Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connectivity (Graph Theory)" target="Computational Complexity Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connectivity (Graph Theory)" target="Computer Science">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connectivity (Graph Theory)" target="Connected Component (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connectivity (Graph Theory)" target="Cut (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connectivity (Graph Theory)" target="Cycle (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connectivity (Graph Theory)" target="Degree (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connectivity (Graph Theory)" target="Directed Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connectivity (Graph Theory)" target="Doi (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connectivity (Graph Theory)" target="Graph (Discrete Mathematics)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connectivity (Graph Theory)" target="Graph Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connectivity (Graph Theory)" target="Isbn (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connectivity (Graph Theory)" target="If And Only If">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connectivity (Graph Theory)" target="Journal Of The Acm">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connectivity (Graph Theory)" target="K-Vertex-Connected Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connectivity (Graph Theory)" target="Mr (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connectivity (Graph Theory)" target="On-Line Encyclopedia Of Integer Sequences">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connectivity (Graph Theory)" target="Path (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connectivity (Graph Theory)" target="Planar Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connectivity (Graph Theory)" target="S2Cid (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connectivity (Graph Theory)" target="Strongly Connected Component">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connectivity (Graph Theory)" target="Symmetric Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connectivity (Graph Theory)" target="Tree (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connectivity (Graph Theory)" target="Undirected Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connectivity (Graph Theory)" target="Vertex-Transitive Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Connectivity (Graph Theory)" target="Vertex (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Arborescence (Graph Theory)" target="Directed Acyclic Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Arborescence (Graph Theory)" target="Directed Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Arborescence (Graph Theory)" target="Doi (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Arborescence (Graph Theory)" target="Eric W. Weisstein">
+  <data key="d1">0</data>
+</edge>
+<edge source="Arborescence (Graph Theory)" target="Graph Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Arborescence (Graph Theory)" target="Isbn (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Arborescence (Graph Theory)" target="Mathworld">
+  <data key="d1">0</data>
+</edge>
+<edge source="Arborescence (Graph Theory)" target="On-Line Encyclopedia Of Integer Sequences">
+  <data key="d1">0</data>
+</edge>
+<edge source="Arborescence (Graph Theory)" target="Path (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Arborescence (Graph Theory)" target="Tree (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Arborescence (Graph Theory)" target="Undirected Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Arborescence (Graph Theory)" target="Vertex (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Arborescence (Graph Theory)" target="W. T. Tutte">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bibcode (Identifier)" target="Doi (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bibcode (Identifier)" target="Isbn (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bibcode (Identifier)" target="Pmid (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cedric Smith (Statistician)" target="Best Theorem">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cedric Smith (Statistician)" target="Combinatorics">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cedric Smith (Statistician)" target="Doi (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cedric Smith (Statistician)" target="Jstor (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cedric Smith (Statistician)" target="Mr (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cedric Smith (Statistician)" target="Pmid (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cedric Smith (Statistician)" target="S2Cid (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Cedric Smith (Statistician)" target="W. T. Tutte">
+  <data key="d1">0</data>
+</edge>
+<edge source="Carl Hierholzer" target="Connectivity (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Carl Hierholzer" target="Degree (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Carl Hierholzer" target="Doi (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Carl Hierholzer" target="Graph (Discrete Mathematics)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Carl Hierholzer" target="Leonhard Euler">
+  <data key="d1">0</data>
+</edge>
+<edge source="Carl Hierholzer" target="Mathematical Proof">
+  <data key="d1">0</data>
+</edge>
+<edge source="Carl Hierholzer" target="Mathematician">
+  <data key="d1">0</data>
+</edge>
+<edge source="Carl Hierholzer" target="S2Cid (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Carl Hierholzer" target="Wayback Machine">
+  <data key="d1">0</data>
+</edge>
+<edge source="D. R. Fulkerson" target="American Mathematical Society">
+  <data key="d1">0</data>
+</edge>
+<edge source="D. R. Fulkerson" target="Cornell University">
+  <data key="d1">0</data>
+</edge>
+<edge source="D. R. Fulkerson" target="Discrete Mathematics">
+  <data key="d1">0</data>
+</edge>
+<edge source="D. R. Fulkerson" target="Doi (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="D. R. Fulkerson" target="Isbn (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="D. R. Fulkerson" target="Jstor (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="D. R. Fulkerson" target="Mr (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="D. R. Fulkerson" target="Mathematician">
+  <data key="d1">0</data>
+</edge>
+<edge source="D. R. Fulkerson" target="Mathematics Genealogy Project">
+  <data key="d1">0</data>
+</edge>
+<edge source="D. R. Fulkerson" target="S2Cid (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Best Theorem" target="American Mathematical Monthly">
+  <data key="d1">0</data>
+</edge>
+<edge source="Best Theorem" target="Arborescence (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Best Theorem" target="Bijective Proof">
+  <data key="d1">0</data>
+</edge>
+<edge source="Best Theorem" target="Brendan Mckay (Mathematician)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Best Theorem" target="Cambridge University Press">
+  <data key="d1">0</data>
+</edge>
+<edge source="Best Theorem" target="Cedric Smith (Statistician)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Best Theorem" target="Combinatorica">
+  <data key="d1">0</data>
+</edge>
+<edge source="Best Theorem" target="Complete Bipartite Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Best Theorem" target="Complete Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Best Theorem" target="Connected Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Best Theorem" target="Directed Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Best Theorem" target="Discrete Mathematics">
+  <data key="d1">0</data>
+</edge>
+<edge source="Best Theorem" target="Doi (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Best Theorem" target="Graph (Discrete Mathematics)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Best Theorem" target="Graph Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Best Theorem" target="Isbn (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Best Theorem" target="Jstor (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Best Theorem" target="Leonhard Euler">
+  <data key="d1">0</data>
+</edge>
+<edge source="Best Theorem" target="Nicolaas Govert De Bruijn">
+  <data key="d1">0</data>
+</edge>
+<edge source="Best Theorem" target="Polynomial Time">
+  <data key="d1">0</data>
+</edge>
+<edge source="Best Theorem" target="Tree (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Best Theorem" target="W. T. Tutte">
+  <data key="d1">0</data>
+</edge>
+<edge source="Best Theorem" target="Wayback Machine">
+  <data key="d1">0</data>
+</edge>
+<edge source="Brendan Mckay (Mathematician)" target="Combinatorics">
+  <data key="d1">0</data>
+</edge>
+<edge source="Brendan Mckay (Mathematician)" target="Doi (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Brendan Mckay (Mathematician)" target="International Congress Of Mathematicians">
+  <data key="d1">0</data>
+</edge>
+<edge source="Brendan Mckay (Mathematician)" target="Journal Of Combinatorial Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Brendan Mckay (Mathematician)" target="Mr (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Brendan Mckay (Mathematician)" target="Mathematics Genealogy Project">
+  <data key="d1">0</data>
+</edge>
+<edge source="Brendan Mckay (Mathematician)" target="Planar Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridgeless Graph" target="Arxiv (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridgeless Graph" target="Biconnected Component">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridgeless Graph" target="Béla Bollobás">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridgeless Graph" target="Connected Component (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridgeless Graph" target="Cubic Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridgeless Graph" target="Cut (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridgeless Graph" target="Cycle (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridgeless Graph" target="Cycle Double Cover Conjecture">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridgeless Graph" target="Depth-First Search">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridgeless Graph" target="Doi (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridgeless Graph" target="Equivalence Relation">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridgeless Graph" target="Forest (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridgeless Graph" target="Glossary Of Graph Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridgeless Graph" target="Graph (Discrete Mathematics)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridgeless Graph" target="Graph Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridgeless Graph" target="Hdl (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridgeless Graph" target="Isbn (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridgeless Graph" target="Issn (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridgeless Graph" target="Jstor (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridgeless Graph" target="K-Vertex-Connected Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridgeless Graph" target="Linear Time">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridgeless Graph" target="Mr (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridgeless Graph" target="Paul Seymour (Mathematician)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridgeless Graph" target="Robert Tarjan">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridgeless Graph" target="Spanning Forest">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridgeless Graph" target="Strong Orientation">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridgeless Graph" target="The American Mathematical Monthly">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridgeless Graph" target="Tree (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Countable Set" target="Automata Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Countable Set" target="Computability Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Countable Set" target="Doi (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Countable Set" target="Equivalence Relation">
+  <data key="d1">0</data>
+</edge>
+<edge source="Countable Set" target="Formal Language">
+  <data key="d1">0</data>
+</edge>
+<edge source="Countable Set" target="Isbn (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Countable Set" target="Information Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Countable Set" target="S2Cid (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Andrew Vázsonyi" target="Doi (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Andrew Vázsonyi" target="Euclidean Plane">
+  <data key="d1">0</data>
+</edge>
+<edge source="Andrew Vázsonyi" target="Graph Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Andrew Vázsonyi" target="Harvard University">
+  <data key="d1">0</data>
+</edge>
+<edge source="Andrew Vázsonyi" target="Isbn (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Andrew Vázsonyi" target="Jstor (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Andrew Vázsonyi" target="Mr (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Andrew Vázsonyi" target="Operations Research">
+  <data key="d1">0</data>
+</edge>
+<edge source="Andrew Vázsonyi" target="Paul Erdős">
+  <data key="d1">0</data>
+</edge>
+<edge source="Andrew Vázsonyi" target="S2Cid (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Andrew Vázsonyi" target="Tree (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Alexander Schrijver">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="American Mathematical Monthly">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Andrew Vázsonyi">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Anton Kotzig">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Arxiv (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Arborescence (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Asymptotic Analysis">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Best Theorem">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Bibcode (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Bijective Proof">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Bioinformatics">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Brendan Mckay (Mathematician)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Bridge (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Bridgeless Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Béla Bollobás">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Carl Hierholzer">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Cayley Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Cedric Smith (Statistician)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Citeseerx (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Combinatorica">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Complete Bipartite Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Complete Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Connected Component (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Connected Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Connectivity (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Countable Set">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Cycle (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="D. R. Fulkerson">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Dna Sequence">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Degree (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Directed Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Doi (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Edge (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Encyclopedia Of Mathematics">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Graph (Discrete Mathematics)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Graph Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Isbn (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Issn (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="If And Only If">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Jstor (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Leonhard Euler">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Linear Time">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Mr (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Mathematical Proof">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Nicolaas Govert De Bruijn">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Pmc (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Pmid (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Path (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Paul Erdős">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Robert Tarjan">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="S2Cid (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Seven Bridges Of Königsberg">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Strong Orientation">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Strongly Connected Component">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Tree (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Undirected Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Vertex (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="W. T. Tutte">
+  <data key="d1">0</data>
+</edge>
+<edge source="Eulerian Path" target="Hamiltonian Cycle">
+  <data key="d1">0</data>
+</edge>
+<edge source="Alexander Schrijver" target="American Mathematical Society">
+  <data key="d1">0</data>
+</edge>
+<edge source="Alexander Schrijver" target="Combinatorica">
+  <data key="d1">0</data>
+</edge>
+<edge source="Alexander Schrijver" target="Doi (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Alexander Schrijver" target="Isbn (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Alexander Schrijver" target="International Congress Of Mathematicians">
+  <data key="d1">0</data>
+</edge>
+<edge source="Alexander Schrijver" target="Journal Of Combinatorial Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Alexander Schrijver" target="Journal Of The Acm">
+  <data key="d1">0</data>
+</edge>
+<edge source="Alexander Schrijver" target="László Lovász">
+  <data key="d1">0</data>
+</edge>
+<edge source="Alexander Schrijver" target="Mr (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Alexander Schrijver" target="Mathematics Genealogy Project">
+  <data key="d1">0</data>
+</edge>
+<edge source="Alexander Schrijver" target="Operations Research">
+  <data key="d1">0</data>
+</edge>
+<edge source="Alexander Schrijver" target="Wayback Machine">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridge (Graph Theory)" target="Arxiv (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridge (Graph Theory)" target="Biconnected Component">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridge (Graph Theory)" target="Béla Bollobás">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridge (Graph Theory)" target="Connected Component (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridge (Graph Theory)" target="Cubic Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridge (Graph Theory)" target="Cut (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridge (Graph Theory)" target="Cycle (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridge (Graph Theory)" target="Cycle Double Cover Conjecture">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridge (Graph Theory)" target="Depth-First Search">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridge (Graph Theory)" target="Doi (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridge (Graph Theory)" target="Equivalence Relation">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridge (Graph Theory)" target="Forest (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridge (Graph Theory)" target="Glossary Of Graph Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridge (Graph Theory)" target="Graph (Discrete Mathematics)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridge (Graph Theory)" target="Graph Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridge (Graph Theory)" target="Hdl (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridge (Graph Theory)" target="Isbn (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridge (Graph Theory)" target="Issn (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridge (Graph Theory)" target="Jstor (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridge (Graph Theory)" target="K-Vertex-Connected Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridge (Graph Theory)" target="Linear Time">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridge (Graph Theory)" target="Mr (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridge (Graph Theory)" target="Paul Seymour (Mathematician)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridge (Graph Theory)" target="Robert Tarjan">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridge (Graph Theory)" target="Spanning Forest">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridge (Graph Theory)" target="Strong Orientation">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridge (Graph Theory)" target="The American Mathematical Monthly">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bridge (Graph Theory)" target="Tree (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Graph" target="Arxiv (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Graph" target="Bibcode (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Graph" target="Chromatic Number">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Graph" target="Citeseerx (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Graph" target="Complete Bipartite Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Graph" target="Connectivity (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Graph" target="Degree (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Graph" target="Directed Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Graph" target="Doi (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Graph" target="Edge (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Graph" target="Eric W. Weisstein">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Graph" target="Girth (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Graph" target="Graph Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Graph" target="Hamiltonian Cycle">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Graph" target="Isbn (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Graph" target="Issn (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Graph" target="Leonhard Euler">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Graph" target="Mr (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Graph" target="Mathworld">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Graph" target="On-Line Encyclopedia Of Integer Sequences">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Graph" target="Pmid (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Graph" target="Path (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Graph" target="Paul Seymour (Mathematician)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Graph" target="Perfect Matching">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Graph" target="Planar Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Graph" target="S2Cid (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Graph" target="Seven Bridges Of Königsberg">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Graph" target="Spectral Graph Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Graph" target="Symmetric Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Graph" target="Symmetric Group">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Graph" target="Undirected Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Graph" target="Vertex-Transitive Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Graph" target="Vertex (Graph Theory)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Complete Graph" target="Wayback Machine">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bioinformatics" target="Analysis Of Algorithms">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bioinformatics" target="Arxiv (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bioinformatics" target="Automata Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bioinformatics" target="Bibcode (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bioinformatics" target="Computability Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bioinformatics" target="Computational Complexity Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bioinformatics" target="Computer Science">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bioinformatics" target="Dna Sequence">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bioinformatics" target="Database">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bioinformatics" target="Directed Acyclic Graph">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bioinformatics" target="Discrete Mathematics">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bioinformatics" target="Doi (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bioinformatics" target="Evolutionary Biology">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bioinformatics" target="Formal Language">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bioinformatics" target="Graph Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bioinformatics" target="Harvard University">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bioinformatics" target="Hdl (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bioinformatics" target="Isbn (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bioinformatics" target="Issn (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bioinformatics" target="Information Theory">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bioinformatics" target="Mathematical Analysis">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bioinformatics" target="Numerical Analysis">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bioinformatics" target="Operating System">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bioinformatics" target="Operations Research">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bioinformatics" target="Pmc (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bioinformatics" target="Pmid (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bioinformatics" target="Physics">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bioinformatics" target="Probability">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bioinformatics" target="S2Cid (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bioinformatics" target="Wayback Machine">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bioinformatics" target="Word Processor">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bioinformatics" target="World Wide Web">
+  <data key="d1">0</data>
+</edge>
+<edge source="Bioinformatics" target="Statistic">
+  <data key="d1">0</data>
+</edge>
+</graph></graphml>
